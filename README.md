@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Web Development.<br>👯 I’m looking to work on group projects and do meaningful collaborations.<br>🌱 I’m currently learning Backend and DevOps.
+🔭 I’m currently working on Full Stack Web Development.<br>👯 I’m looking to work on group projects and do meaningful collaborations.<br>🌱 I’m currently learning Data Structures, Backend and DevOps.
 
 
 ## 🌐 Socials:
