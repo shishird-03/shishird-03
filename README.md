@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Shishir%20D&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Shishir%20D&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20%7C%20Analytical thinking%20%7C%20Problem Solving%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/shishird-03">
