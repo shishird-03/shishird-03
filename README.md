@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Shishir%20D&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20%7C%20Analytical thinking%20%7C%20Problem Solving%20Solver&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=160&section=header&text=Shishir%20D&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Engineering%20%7C%20Developing%20%7C%20Problem%20Solving%20%7C%20Innovating&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://github.com/shishird-03">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Final+Year+CSE+%40+NMAMIT%2C+Nitte;AI+%2F+ML+%7C+Full+Stack+%7C+Cybersecurity;Building+things+that+actually+work." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&multiline=false&width=950&lines=Pre-Final+Year+CSE+%40+NMAM+INSTITUTE+OF+TECHNOLOGY%2C+NITTE%2C+KARNATAKA%2C+INDIA;AI+%2F+ML+%7C+Frontend+%7C+UI%2FUX+%7C+Web+Dev;Building+things+that+actually+work." alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![GitHub followers](https://img.shields.io/github/followers/shishird-03?label=Followers&style=flat-square&color=38BDF8&labelColor=0f172a)](https://github.com/shishird-03)
 [![Profile views](https://komarev.com/ghpvc/?username=shishird-03&style=flat-square&color=38BDF8&label=Profile+Views)](https://github.com/shishird-03)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://linkedin.com/in/shishird-03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/shishir-d-85219a28b/)
 
 </div>
 
@@ -20,13 +20,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Final-Year B.Tech CSE student at NMAMIT, Nitte** with a hands-on focus across AI/ML, full-stack development, and cybersecurity. I build end-to-end systems — from CNNs and semantic segmentation models to Spring Boot microservices and React dashboards — and ship projects that go beyond coursework.
-
-- 🔬 Capstone: **Beyond Vision** — Dual-Sensory Autonomous Navigation (ADAS) combining U-Net segmentation + CNN-LSTM audio classification
-- 🛡️ Building a **Vulnerability Scanning Management System** (VSMS) with AI-powered CVE risk scoring & LLM remediation
-- 🌍 Working on real-time city data synthesis with **Gemini + Firebase + live map dashboards**
-- 📡 Past work spans satellite imagery change detection, forest fire simulation, and mental health AI platforms
-- 🎓 Certifications: Tableau (Udemy), NVIDIA Networking (Coursera), Azure AI Studio (Microsoft)
+I'm a **Pre- Final-Year B.Tech Computer Science Engineering student at NMAMIT, Nitte** with a hands-on focus across AI/ML, Web development and Data Structures and Problem Solving. 
 
 ---
 
@@ -55,49 +49,20 @@ I'm a **Final-Year B.Tech CSE student at NMAMIT, Nitte** with a hands-on focus a
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=flat-square&logo=openlayers&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 ### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Security
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square)
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Beyond Vision**](#) | Dual-sensory ADAS navigation — semantic segmentation (U-Net) + audio classification (CNN-LSTM) | Python · PyTorch · OpenCV |
-| [**VSMS**](#) | AI-enhanced Vulnerability Scanning Management System with CVE risk scoring & LLM remediation | Spring Boot · React · Flask · Python |
-| [**City Data Synthesis**](#) | Real-time agentic city intelligence app with live map dashboard | Gemini · Firebase · OpenLayers |
-| [**ClimaShield**](#) | Forest fire spread simulation using U-Net + LSTM + Cellular Automata | Python · ERA-5 · VIIRS · IMD |
-| [**Satellite Change Detection**](#) | Change detection & alert system from satellite imagery | Vue.js · OpenLayers · PostGIS · Node.js |
-| [**MindScope**](#) | Mental health support platform using Agentic AI, Granite LLM & RAG | Python · Granite LLM · RAG |
-
-> 📌 Replace `#` links with actual repo URLs after pushing to GitHub.
 
 ---
 
@@ -116,21 +81,9 @@ I'm a **Final-Year B.Tech CSE student at NMAMIT, Nitte** with a hands-on focus a
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=shishird-03&theme=tokyonight&no-frame=true&column=6&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 📌 Currently
 
-- 🔭 Building: `Beyond Vision` (capstone) · `VSMS` · Agentic city data app
+- 🔭 Building: `Beyond Vision` (capstone) ·
 - 📚 Grinding: DSA · Aptitude prep · System Design fundamentals
 - 💡 Exploring: Agentic AI architectures · LLM fine-tuning · Penetration testing automation
 - 🤝 Open to: Collaborations, internships, and interesting problems to solve
