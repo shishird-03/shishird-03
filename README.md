@@ -83,7 +83,7 @@ I'm a **Pre- Final-Year B.Tech Computer Science Engineering student at NMAMIT, N
 
 ## 📌 Currently
 
-- 🔭 Building: `Beyond Vision` (capstone) ·
+- 🔭 Building: Full-Stack projects ·
 - 📚 Grinding: DSA · Aptitude prep · System Design fundamentals
 - 💡 Exploring: Agentic AI architectures · LLM fine-tuning · Penetration testing automation
 - 🤝 Open to: Collaborations, internships, and interesting problems to solve
