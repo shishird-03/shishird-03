@@ -85,7 +85,7 @@ I'm a **Pre- Final-Year B.Tech Computer Science Engineering student at NMAMIT, N
 
 - 🔭 Building: Full-Stack projects ·
 - 📚 Grinding: DSA · Aptitude prep · System Design fundamentals
-- 💡 Exploring: Agentic AI architectures · LLM fine-tuning · Penetration testing automation
+- 💡 Exploring: Healthcare and Fintech innovations 
 - 🤝 Open to: Collaborations, internships, and interesting problems to solve
 
 ---
