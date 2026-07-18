@@ -62,6 +62,12 @@ YOLOv8 computer-vision pipeline that detects traffic violations and automates di
 **🎙️ Prepwise — AI Voice Mock Interviewer** · `Next.js · TypeScript · Vapi · Gemini · Firebase` · [link](https://prepwise-dusky.vercel.app)
 Real-time AI voice interviewer with role-specific question generation and structured feedback scoring.
 
+**👁️ Beyond Vision** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
+B-TECH Major Project Currently under development 
+
+**🍱 Dabba** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
+Project Under Development
+
 ---
 
 <!-- ═══════════════════════ EXPERIENCE ═══════════════════════ -->
