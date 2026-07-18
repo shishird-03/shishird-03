@@ -65,8 +65,11 @@ Real-time AI voice interviewer with role-specific question generation and struct
 **👁️ Beyond Vision** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
 B-TECH Major Project Currently under development 
 
-**🍱 Dabba** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
-Project Under Development
+** Dabba** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
+Project-1 Under Development
+
+** KalyanKavach** · ![Status](https://img.shields.io/badge/🚧_In_Development-A78BFA?style=flat-square&labelColor=161B22)
+Project-2 Under Development
 
 ---
 
