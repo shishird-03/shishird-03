@@ -53,7 +53,7 @@ me = Shishir()
 
 ## 🚀 Projects
 
-**🛒 Rajamrutha — AI-Driven E-Commerce Platform** · `Next.js · Node.js · PostgreSQL · Prisma · Redis` [Store link](https://ayurvedic-client.vercel.app) [Admin link](https://ayurvedic-dashboard.vercel.app)  
+**🛒 Rajamrutha — AI-Driven E-Commerce Platform** · `Next.js · Node.js · PostgreSQL · Prisma · Redis` [Store link](https://ayurvedic-client.vercel.app)|| [Admin link](https://ayurvedic-dashboard.vercel.app)  
 Full-stack storefront, admin panel, and backend services with a RAG chatbot (OpenRouter API) that answers health queries with context-aware product recommendations. JWT auth + Redis caching for performance under load.
 
 **🚦 SmartChallan — AI E-Challan System** · `Python · FastAPI · YOLOv8 · React · Node.js` · [link](https://smart-challan.vercel.app)
