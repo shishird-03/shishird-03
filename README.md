@@ -128,7 +128,7 @@ Supported network hardware and ICT infrastructure for the PAN Smart City Project
 <details open>
 <summary><b>Technical Team Member — Incridea 2026</b> <i>(NMAMIT college fest)</i></summary>
 
-Led a sub-team of 3–4 building and deploying the official fest website **"Dimensional Drift"** for **3000+ users**; handled live bug fixes with zero downtime during peak registrations.
+Led a sub-team of 3–4 building and deploying the official fest website **"Dimensional Drift"** for **7000+ users**; handled live bug fixes with zero downtime during peak registrations.
 
 </details>
 
@@ -211,7 +211,6 @@ Led a sub-team of 3–4 building and deploying the official fest website **"Dime
 
 <br/><br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=shishird-03&style=flat-square&color=38BDF8&label=Profile+Views)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,30:2563EB,65:1E3A5F,100:0D1117&height=110&section=footer" />
 
