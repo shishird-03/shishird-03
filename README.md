@@ -48,7 +48,7 @@ class Shishir:
 
 `C++17` `OpenGL` `freeGLUT` `Dear ImGui` `CMake`
 
-<a href="https://github.com/shishird-03/Orbitguard"><img src="https://img.shields.io/badge/View_on_GitHub-Orbitguard-38BDF8?style=for-the-badge&logo=github&labelColor=161B22" /></a>
+<a href="https://github.com/shishird-03/Orbitguard.git"><img src="https://img.shields.io/badge/View_on_GitHub-Orbitguard-38BDF8?style=for-the-badge&logo=github&labelColor=161B22" /></a>
 
 </td>
 <td width="38%" valign="middle" align="center">
